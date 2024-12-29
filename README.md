@@ -13,5 +13,4 @@ Frontend: HTML, CSS
 Frameworks: Bootstrap for styling
 Deployment: Hosted on platforms like github
 
-Usage
 Navigate to https://sourav-gittech.github.io/Plumber_web/ in your browser.
